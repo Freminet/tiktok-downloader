@@ -15,8 +15,8 @@ let html = `
 	<meta name="theme-color" content="#FFF">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link href="https://fonts.googleapis.com/css2?family=Bellota+Text:wght@400;700&family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet">
-	<script src="https://furina.nl/assets/css/common.js"></script>
-	<script src="https://furina.nl/assets/css/top.js"></script>
+	<script src="https://yoimiya.nl/assets/css/common.js"></script>
+	<script src="https://yoimiya.nl/assets/css/top.js"></script>
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
 </head>
 <body id="top" class="body js-chengeCont">
@@ -98,7 +98,7 @@ let html = `
 		</div>
 	</div>
 	<div class="fullBg js-fixed"></div>
-	<script src="https://furina.nl/assets/js/jquery.common.js"></script>
+	<script src="https://yoimiya.nl/assets/js/jquery.common.js"></script>
 </body>
 </html>
 `
